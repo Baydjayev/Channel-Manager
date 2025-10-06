@@ -491,7 +491,7 @@ copies of the Software...
 ## 📞 Aloqa
 
 - **Telegram:** [@bynoutbook](https://t.me/bynoutbook)
-- **GitHub:** [github.com/yourusername](https://github.com/Baydjayev)
+- **GitHub:** [github.com/Baydjayev](https://github.com/Baydjayev)
 - **Email:** ippark96@gmail.com
 
 ---
